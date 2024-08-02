@@ -67,6 +67,10 @@ EbSynth is an AI-powered video editing tool that enables users to transform foot
 ### [![Deep Image](https://img.shields.io/badge/Explore-Deep_Image-brightgreen)](https://theresanaiforthat.com/tool/deep-image)
 Deep Image is an AI photo enhancer that improves the quality of images using advanced algorithms.
 
+---
+
+## OUR GUIDES (Links to the "tools" folder)
+
 ## Godmode AI
 
 For more details on using Godmode AI, please see our [Godmode AI Guide](TOOLS/GODMODE.md).
@@ -75,8 +79,11 @@ For more details on using Godmode AI, please see our [Godmode AI Guide](TOOLS/GO
 
 For more details on using UiMagic AI, please see our [UiMagic AI Guide](TOOLS/UI-MAGIC.md).
 
+## Crayo AI
 
-For more details on using Crayo.ai, please see our [Crayo AI Guide]([https://crayo.ai/](https://github.com/TMHSDigital/awesome-ai-tools/blob/fcbf1da1847eef9efc1bd0973720e23308dd1a5c/TOOLS/CRAYO-AI.md)).
+For more details on using Crayo AI, please see our [Crayo AI Guide](TOOLS/CRAYO-AI.md).
+
+---
 
 ## Repository Stats
 
