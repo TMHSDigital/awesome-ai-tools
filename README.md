@@ -6,35 +6,61 @@ This repository provides a curated list of free AI tools that can help you enhan
   <img src="theres_an_ai_for_that.com.png" alt="There's An AI For That">
 </p>
 
-## OUR GUIDES (Links to the "tools" folder)
+### OUR GUIDES (Links to the "tools" folder)
 
-## Godmode AI
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-[![Godmode AI Guide](https://img.shields.io/badge/Explore-Godmode_AI-brightgreen?style=for-the-badge&logo=godmode)](TOOLS/GODMODE.md)
+  <div style="flex: 1; min-width: 200px; max-width: 300px; padding: 10px; text-align: center;">
+    <h3>Godmode AI</h3>
+    <a href="TOOLS/GODMODE.md">
+      <img src="https://img.shields.io/badge/Explore-Godmode_AI-brightgreen?style=for-the-badge&logo=godmode" alt="Godmode AI">
+    </a>
+  </div>
 
-## UiMagic AI
+  <div style="flex: 1; min-width: 200px; max-width: 300px; padding: 10px; text-align: center;">
+    <h3>UiMagic AI</h3>
+    <a href="TOOLS/UI-MAGIC.md">
+      <img src="https://img.shields.io/badge/Explore-UiMagic_AI-brightgreen?style=for-the-badge&logo=uimagic" alt="UiMagic AI">
+    </a>
+  </div>
 
-[![UiMagic AI Guide](https://img.shields.io/badge/Explore-UiMagic_AI-brightgreen?style=for-the-badge&logo=uimagic)](TOOLS/UI-MAGIC.md)
+  <div style="flex: 1; min-width: 200px; max-width: 300px; padding: 10px; text-align: center;">
+    <h3>Crayo AI</h3>
+    <a href="TOOLS/CRAYO-AI.md">
+      <img src="https://img.shields.io/badge/Explore-Crayo_AI-brightgreen?style=for-the-badge&logo=crayo" alt="Crayo AI">
+    </a>
+  </div>
 
-## Crayo AI
+  <div style="flex: 1; min-width: 200px; max-width: 300px; padding: 10px; text-align: center;">
+    <h3>HubSpot</h3>
+    <a href="TOOLS/HUBSPOT.md">
+      <img src="https://img.shields.io/badge/Explore-HubSpot-brightgreen?style=for-the-badge&logo=hubspot" alt="HubSpot">
+    </a>
+  </div>
 
-[![Crayo AI Guide](https://img.shields.io/badge/Explore-Crayo_AI-brightgreen?style=for-the-badge&logo=crayo)](TOOLS/CRAYO-AI.md)
+  <div style="flex: 1; min-width: 200px; max-width: 300px; padding: 10px; text-align: center;">
+    <h3>Zendesk</h3>
+    <a href="TOOLS/ZENDESK.md">
+      <img src="https://img.shields.io/badge/Explore-Zendesk-brightgreen?style=for-the-badge&logo=zendesk" alt="Zendesk">
+    </a>
+  </div>
 
-## HubSpot
+  <div style="flex: 1; min-width: 200px; max-width: 300px; padding: 10px; text-align: center;">
+    <h3>Tableau</h3>
+    <a href="TOOLS/TABLEAU.md">
+      <img src="https://img.shields.io/badge/Explore-Tableau-brightgreen?style=for-the-badge&logo=tableau" alt="Tableau">
+    </a>
+  </div>
 
-[![HubSpot Guide](https://img.shields.io/badge/Explore-HubSpot-brightgreen?style=for-the-badge&logo=hubspot)](TOOLS/HUBSPOT.md)
+  <div style="flex: 1; min-width: 200px; max-width: 300px; padding: 10px; text-align: center;">
+    <h3>Zapier</h3>
+    <a href="TOOLS/ZAPIER.md">
+      <img src="https://img.shields.io/badge/Explore-Zapier-brightgreen?style=for-the-badge&logo=zapier" alt="Zapier">
+    </a>
+  </div>
 
-## Zendesk
+</div>
 
-[![Zendesk Guide](https://img.shields.io/badge/Explore-Zendesk-brightgreen?style=for-the-badge&logo=zendesk)](TOOLS/ZENDESK.md)
-
-## Tableau
-
-[![Tableau Guide](https://img.shields.io/badge/Explore-Tableau-brightgreen?style=for-the-badge&logo=tableau)](TOOLS/TABLEAU.md)
-
-## Zapier
-
-[![Zapier Guide](https://img.shields.io/badge/Explore-Zapier-brightgreen?style=for-the-badge&logo=zapier)](TOOLS/ZAPIER.md)
 
 
 ## Video Enhancement Tools
