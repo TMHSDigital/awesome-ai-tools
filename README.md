@@ -76,7 +76,7 @@ For more details on using Godmode AI, please see our [Godmode AI Guide](TOOLS/GO
 For more details on using UiMagic AI, please see our [UiMagic AI Guide](TOOLS/UI-MAGIC.md).
 
 
-For more details on using Crayo.ai, please see our [Crayo AI Guide](https://crayo.ai/).
+For more details on using Crayo.ai, please see our [Crayo AI Guide]([https://crayo.ai/](https://github.com/TMHSDigital/awesome-ai-tools/blob/fcbf1da1847eef9efc1bd0973720e23308dd1a5c/TOOLS/CRAYO-AI.md)).
 
 ## Repository Stats
 
