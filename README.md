@@ -75,9 +75,11 @@ For more details on using Godmode AI, please see our [Godmode AI Guide](TOOLS/GO
 
 For more details on using UiMagic AI, please see our [UiMagic AI Guide](TOOLS/UI-MAGIC.md).
 
+
+For more details on using Crayo.ai, please see our [Crayo AI Guide](https://crayo.ai/).
+
 ## Repository Stats
 
-![Views](https://img.shields.io/github/views/TMHSDigital/awesome-ai-tools)
 ![Forks](https://img.shields.io/github/forks/TMHSDigital/awesome-ai-tools)
 ![Stars](https://img.shields.io/github/stars/TMHSDigital/awesome-ai-tools)
 ![Issues](https://img.shields.io/github/issues/TMHSDigital/awesome-ai-tools)
