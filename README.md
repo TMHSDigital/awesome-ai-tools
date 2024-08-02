@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="theres_an_ai_for_that.com.png" alt="There's An AI For That">
+</p>
+
+---
+
 # Top Free AI Tools
 
 This repository provides a curated list of free AI tools that can help you enhance your productivity, creativity, and daily life. Click the buttons to explore each tool.
 
-<p align="center">
-  <img src="theres_an_ai_for_that.com.png" alt="There's An AI For That">
-</p>
+---
 
 ### OUR GUIDES (Links to the "tools" folder)
 
