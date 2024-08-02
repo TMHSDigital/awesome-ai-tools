@@ -156,7 +156,6 @@ Deep Image is an AI photo enhancer that improves the quality of images using adv
 ![Total Repositories](https://img.shields.io/badge/dynamic/json?color=blue&style=for-the-badge&label=Total%20Repositories&query=public_repos&url=https://api.github.com/users/TMHSDigital)
 ![Gists](https://img.shields.io/badge/dynamic/json?color=blue&style=for-the-badge&label=Gists&query=public_gists&url=https://api.github.com/users/TMHSDigital)
 ![Followers](https://img.shields.io/github/followers/TMHSDigital?style=for-the-badge)
-![Following](https://img.shields.io/github/following/TMHSDigital?style=for-the-badge)
 ![Account Created](https://img.shields.io/badge/dynamic/json?color=blue&style=for-the-badge&label=Account%20Created&query=created_at&url=https://api.github.com/users/TMHSDigital)
 ![Profile Views](https://komarev.com/ghpvc/?username=TMHSDigital&color=green&style=for-the-badge)
 
