@@ -83,6 +83,23 @@ For more details on using UiMagic AI, please see our [UiMagic AI Guide](TOOLS/UI
 
 For more details on using Crayo AI, please see our [Crayo AI Guide](TOOLS/CRAYO-AI.md).
 
+## HubSpot
+
+For more details on using HubSpot, please see our [HubSpot Guide](TOOLS/HUBSPOT.md).
+
+## Zendesk
+
+For more details on using Zendesk, please see our [Zendesk Guide](TOOLS/ZENDESK.md).
+
+## Tableau
+
+For more details on using Tableau, please see our [Tableau Guide](TOOLS/TABLEAU.md).
+
+## Zapier
+
+For more details on using Zapier, please see our [Zapier Guide](TOOLS/ZAPIER.md).
+
+
 ---
 
 ## Repository Stats
