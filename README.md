@@ -2,6 +2,10 @@
 
 This repository provides a curated list of free AI tools that can help you enhance your productivity, creativity, and daily life. Click the buttons to explore each tool.
 
+<p align="center">
+  <img src="theres_an_ai_for_that.com.png" alt="There's An AI For That">
+</p>
+
 ## Video Enhancement Tools
 
 ### [![Gling](https://img.shields.io/badge/Explore-Gling-brightgreen)](https://theresanaiforthat.com/tool/gling)
@@ -69,6 +73,13 @@ Deep Image is an AI photo enhancer that improves the quality of images using adv
 2. Sign up or start using the tools directly on their respective websites.
 3. Enjoy the benefits of these free AI-powered tools!
 
+## Repository Stats
+
+![Views](https://img.shields.io/github/views/TMHSDigital/awesome-ai-tools)
+![Forks](https://img.shields.io/github/forks/TMHSDigital/awesome-ai-tools)
+![Stars](https://img.shields.io/github/stars/TMHSDigital/awesome-ai-tools)
+![Issues](https://img.shields.io/github/issues/TMHSDigital/awesome-ai-tools)
+
 ## Contributing
 
 If you know of any other free AI tools that should be included in this list, please open an issue or submit a pull request with the details.
@@ -76,3 +87,4 @@ If you know of any other free AI tools that should be included in this list, ple
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
