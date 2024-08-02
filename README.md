@@ -4,6 +4,30 @@
 
 ---
 
+#### Contact TMHS here
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+
+  <div style="flex: 1; min-width: 200px; max-width: 300px; padding: 10px; text-align: center;">
+    <h3>Facebook</h3>
+    <a href="https://www.facebook.com/profile.php?id=100071356407115">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+  </div>
+
+  <div style="flex: 1; min-width: 200px; max-width: 300px; padding: 10px; text-align: center;">
+    <h3>LinkedIn</h3>
+    <a href="https://www.linkedin.com/company/tm-hospitality-strategies/?viewAsMember=true">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
+
+</div>
+
+---
+
+---
+
 # Top Free AI Tools
 
 This repository provides a curated list of free AI tools that can help you enhance your productivity, creativity, and daily life. Click the buttons to explore each tool.
