@@ -2,9 +2,13 @@
 
 This repository provides a curated list of free AI tools that can help you enhance your productivity, creativity, and daily life. Click the buttons to explore each tool.
 
+---
+
 <p align="center">
   <img src="theres_an_ai_for_that.com.png" alt="There's An AI For That">
 </p>
+
+---
 
 ## Video Enhancement Tools
 
@@ -14,6 +18,8 @@ Gling is an AI-powered video editing tool designed to help YouTube creators save
 ### [![FlexClip](https://img.shields.io/badge/Explore-FlexClip-brightgreen)](https://theresanaiforthat.com/tool/flexclip)
 FlexClip is a free online video editor and maker tool that allows users to create professional-looking videos with ease. It includes a range of templates, stock videos, and music options.
 
+---
+
 ## Deal Finders
 
 ### [![Tire Robot AI Deal Finder](https://img.shields.io/badge/Explore-Tire_Robot_AI_Deal_Finder-brightgreen)](https://theresanaiforthat.com/tool/tire-robot-ai-deal-finder)
@@ -22,6 +28,8 @@ This AI tool helps users find the best deals on tires by comparing prices and of
 ### [![Best Coupon Finder](https://img.shields.io/badge/Explore-Best_Coupon_Finder-brightgreen)](https://theresanaiforthat.com/tool/best-coupon-finder)
 Designed to search and provide the best deals and coupons for any product, this AI tool is useful for online shoppers looking to save money.
 
+---
+
 ## Image Generators
 
 ### [![Dioptify](https://img.shields.io/badge/Explore-Dioptify-brightgreen)](https://theresanaiforthat.com/tool/dioptify)
@@ -29,6 +37,8 @@ Dioptify is a creative AI tool for enhancing, refining, and transforming images.
 
 ### [![AI Image Generator](https://img.shields.io/badge/Explore-AI_Image_Generator-brightgreen)](https://theresanaiforthat.com/tool/ai-image-generator)
 This tool offers text-to-image generation, enabling users to create images based on text prompts with various styles and customization options.
+
+---
 
 ## Coding Tools
 
@@ -43,6 +53,8 @@ Kite is an AI-powered coding assistant that integrates with your IDE to provide 
 
 ### [![CodeT5](https://img.shields.io/badge/Explore-CodeT5-brightgreen)](https://huggingface.co/Salesforce/codet5-base)
 CodeT5 is a free open-source code generation model that can help with code completion and generation tasks.
+
+---
 
 ## Additional Tools
 
@@ -67,11 +79,15 @@ EbSynth is an AI-powered video editing tool that enables users to transform foot
 ### [![Deep Image](https://img.shields.io/badge/Explore-Deep_Image-brightgreen)](https://theresanaiforthat.com/tool/deep-image)
 Deep Image is an AI photo enhancer that improves the quality of images using advanced algorithms.
 
+---
+
 ## How to Use
 
 1. Click the buttons to explore the AI tools.
 2. Sign up or start using the tools directly on their respective websites.
 3. Enjoy the benefits of these free AI-powered tools!
+
+---
 
 ## Repository Stats
 
@@ -79,6 +95,8 @@ Deep Image is an AI photo enhancer that improves the quality of images using adv
 ![Forks](https://img.shields.io/github/forks/TMHSDigital/awesome-ai-tools)
 ![Stars](https://img.shields.io/github/stars/TMHSDigital/awesome-ai-tools)
 ![Issues](https://img.shields.io/github/issues/TMHSDigital/awesome-ai-tools)
+
+---
 
 ## Contributing
 
