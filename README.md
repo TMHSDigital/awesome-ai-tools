@@ -6,6 +6,37 @@ This repository provides a curated list of free AI tools that can help you enhan
   <img src="theres_an_ai_for_that.com.png" alt="There's An AI For That">
 </p>
 
+## OUR GUIDES (Links to the "tools" folder)
+
+## Godmode AI
+
+[![Godmode AI Guide](https://img.shields.io/badge/Explore-Godmode_AI-brightgreen?style=for-the-badge&logo=godmode)](TOOLS/GODMODE.md)
+
+## UiMagic AI
+
+[![UiMagic AI Guide](https://img.shields.io/badge/Explore-UiMagic_AI-brightgreen?style=for-the-badge&logo=uimagic)](TOOLS/UI-MAGIC.md)
+
+## Crayo AI
+
+[![Crayo AI Guide](https://img.shields.io/badge/Explore-Crayo_AI-brightgreen?style=for-the-badge&logo=crayo)](TOOLS/CRAYO-AI.md)
+
+## HubSpot
+
+[![HubSpot Guide](https://img.shields.io/badge/Explore-HubSpot-brightgreen?style=for-the-badge&logo=hubspot)](TOOLS/HUBSPOT.md)
+
+## Zendesk
+
+[![Zendesk Guide](https://img.shields.io/badge/Explore-Zendesk-brightgreen?style=for-the-badge&logo=zendesk)](TOOLS/ZENDESK.md)
+
+## Tableau
+
+[![Tableau Guide](https://img.shields.io/badge/Explore-Tableau-brightgreen?style=for-the-badge&logo=tableau)](TOOLS/TABLEAU.md)
+
+## Zapier
+
+[![Zapier Guide](https://img.shields.io/badge/Explore-Zapier-brightgreen?style=for-the-badge&logo=zapier)](TOOLS/ZAPIER.md)
+
+
 ## Video Enhancement Tools
 
 ### [![Gling](https://img.shields.io/badge/Explore-Gling-brightgreen)](https://theresanaiforthat.com/tool/gling)
@@ -69,44 +100,37 @@ Deep Image is an AI photo enhancer that improves the quality of images using adv
 
 ---
 
-## OUR GUIDES (Links to the "tools" folder)
+### Repository Stats
 
-## Godmode AI
+![Forks](https://img.shields.io/github/forks/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Pull Requests](https://img.shields.io/github/issues-pr/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![License](https://img.shields.io/github/license/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Commits per Month](https://img.shields.io/github/commit-activity/m/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Repository Size](https://img.shields.io/github/repo-size/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Code Size](https://img.shields.io/github/languages/code-size/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Open Issues](https://img.shields.io/github/issues-raw/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Closed Issues](https://img.shields.io/github/issues-closed/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Open Pull Requests](https://img.shields.io/github/issues-pr-raw/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Activity](https://img.shields.io/github/commit-activity/y/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Watchers](https://img.shields.io/github/watchers/TMHSDigital/awesome-ai-tools?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/TMHSDigital?style=for-the-badge)
 
-For more details on using Godmode AI, please see our [Godmode AI Guide](TOOLS/GODMODE.md).
+### Account Stats
 
-## UiMagic AI
-
-For more details on using UiMagic AI, please see our [UiMagic AI Guide](TOOLS/UI-MAGIC.md).
-
-## Crayo AI
-
-For more details on using Crayo AI, please see our [Crayo AI Guide](TOOLS/CRAYO-AI.md).
-
-## HubSpot
-
-For more details on using HubSpot, please see our [HubSpot Guide](TOOLS/HUBSPOT.md).
-
-## Zendesk
-
-For more details on using Zendesk, please see our [Zendesk Guide](TOOLS/ZENDESK.md).
-
-## Tableau
-
-For more details on using Tableau, please see our [Tableau Guide](TOOLS/TABLEAU.md).
-
-## Zapier
-
-For more details on using Zapier, please see our [Zapier Guide](TOOLS/ZAPIER.md).
-
+![Total Repositories](https://img.shields.io/badge/dynamic/json?color=blue&style=for-the-badge&label=Total%20Repositories&query=public_repos&url=https://api.github.com/users/TMHSDigital)
+![Gists](https://img.shields.io/badge/dynamic/json?color=blue&style=for-the-badge&label=Gists&query=public_gists&url=https://api.github.com/users/TMHSDigital)
+![Followers](https://img.shields.io/github/followers/TMHSDigital?style=for-the-badge)
+![Following](https://img.shields.io/github/following/TMHSDigital?style=for-the-badge)
+![Account Created](https://img.shields.io/badge/dynamic/json?color=blue&style=for-the-badge&label=Account%20Created&query=created_at&url=https://api.github.com/users/TMHSDigital)
+![Profile Views](https://komarev.com/ghpvc/?username=TMHSDigital&color=green&style=for-the-badge)
 
 ---
-
-## Repository Stats
-
-![Forks](https://img.shields.io/github/forks/TMHSDigital/awesome-ai-tools)
-![Stars](https://img.shields.io/github/stars/TMHSDigital/awesome-ai-tools)
-![Issues](https://img.shields.io/github/issues/TMHSDigital/awesome-ai-tools)
 
 ## How to Use
 
